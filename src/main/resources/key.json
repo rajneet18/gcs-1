@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "macro-market-321408",
+  "private_key_id": "7472ba83a6d17808aa8d3993069c99e28a06db8f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCUZ1cFJxI+CUOV\njg9pNP5lWiTj6z5DNKBJLy1xigjFAr3lmFgH2pFf5REnHFAFM/5jN71/+DYEt9Ip\nVD/qkkqVDSdM6rf2hGId457h+/eSLE4BRfcCGl2a89GGM8dgPLX47EcdUPALMsN7\nXqPJup0qbn0WMj6mM48tLEaxJZ9/Lc3NAzWQhMQgjDxvkhBbDyCJloEbTRWG0EV/\n/GKQDuB8oZj1VBn/v3+pV/NAIhvhzpF4leZ8+lVP1I/6idBtEqEFg5+7H4/BMnz1\nScuU8HZHMuvrJUzjS8eoVFKHNYh8mubSNVy+Csh34CFY5go8libLqt4Tr2Spribn\nDNrICsQrAgMBAAECggEABdyJCtqOtWWPRk5snGar75veXiQx+tyOwiU7YcMmcoWX\ns4RPYcwHtuZoxYcwP+xcTVXrxayrkYcjJV+/AIhTqsxws3CH4JQ8/do6McnObvcS\nA6ncRjh9XvvnWCoeY1Yyh8jpTCagvIh+QRatWG/m+kCP7zr/z3e03X9ksWV/hbnd\ngdPTrSBUPEIusGkdAHyqMYO3zqfg5mnPgyrD2DYpWxC90z+CAKJbjoqznDrPe/9n\noT2RJGkLFfUsFb6a2062L3mmwuTIm8h+mI30w3Hl7BTER1X1m/uFwdnaEAO1hUSF\nz5fOnJEKSYy6npsx2Xa+llN9LELFTWDmL1ILskelIQKBgQDJT0uhrI6yTbAGPtJ3\nrwQ1cZcMxVcDwA4tFhpJzgWA3x8BtrAynd4EBeMCnXJ39FowEmBw/X2/cD+t46u/\nAYZPiTb1WNVUWA7uaNYBJk0eUcyct3GX7Lf1WTJvEyN6NhS598u0yePEe0pcmnQl\njm3J9WDejCQpvx2RuaCcmSh8SwKBgQC8uIdp3PBY37mm08DkBezieMd+yDh5fhiX\nAapqWhfbBMzsmHUAPcvncsXfrl0v1tFVOGYtpm88BgcbdX64LCWpcA1Yya81LGec\nfRGAz8pSq2ePOpny+oU10GHvIv72/LEW74QXYDvl0EbUlYTi4mqesmGV7huRJDP1\nIx1R4ZwroQKBgEWyYHsPJTByWTkwUuoA/DIMq8FOKXww6DeP6XYYECu4FCIhwAsm\nQRGfgCMNo+4H+ZmfIyi7eufm0wU/R90PiBLNbOuw39sdyb2dKkqnmhefNnojwP5a\nhK47PYzbUXMkejSQqERliagjD3HUP9Yo47YCcJFcb8DMXE5xuDu/gxbVAoGABT5n\nXNSrxPxqby1BFdToUR6kBGzRzOZpDoEYWB4qvYYzn3tY/Om6qbKxttZkdnjUljab\n+DbArn1IY0XvgHSRk1SuukHYYXTbaCi9fMPJTmS+2ub48hxt6SHiJr/lL72zufxr\nwi6FW4xe+3cwGxHJfqFcPss/7td/rhcMsILBUSECgYANpMfpLSVFRnOlal9GscxG\nMF5KpSwOHJ38RSdI9mzQuoYZsEwloc7zrQeymbCqF/eEWYkH7PymI3k7QZBm8cCt\nOe75ltOGrOxy72cNLwDL1D5mNH2NFHODhThXdurGaxzWEnH1XrhJfyUxGM1Luptk\nFLuECoEQuYfGH7ydtlR+Sg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "gcsstoragetest@macro-market-321408.iam.gserviceaccount.com",
+  "client_id": "108460774777426892870",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gcsstoragetest%40macro-market-321408.iam.gserviceaccount.com"
+}
