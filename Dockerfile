@@ -23,7 +23,7 @@ RUN chmod g+rwx /opt/tomcat/bin
 RUN chmod g+r /opt/tomcat/bin/*
 
 RUN rm -rf /opt/tomcat/webapps/*
-RUN cd /tmp && git clone https://github.com/deepak13110/gcs.git
+RUN cd /tmp && git clone https://github.com/rajneet18/gcs-1.git
 RUN cd /tmp/gcs && mvn clean install
 RUN cp /tmp/gcs/target/ROOT.war /opt/tomcat/webapps/ROOT.war
 RUN chmod 777 /opt/tomcat/webapps/ROOT.war
